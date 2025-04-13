@@ -1,0 +1,33 @@
+header{
+    position:fixed;
+    top:0;
+    width:100%;
+    background-color:blue;
+    text-align: center;
+}
+main{
+    margin-top: 120px;
+    margin-bottom: 60px;
+}
+nav a{
+    color:rgb(255, 252, 240);
+    text-decoration:none;
+    text-align: center;
+}
+nav a:hover{
+    color:black;
+    text-decoration: underline;
+}
+footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color: blue;
+    text-align: center;
+}
+.card{
+    background-color: rgb(73, 73, 115);
+    width:200 px;
+    padding:2rem;
+
+}
